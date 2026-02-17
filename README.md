@@ -1,15 +1,13 @@
 <h1 align="left">Hi, I'm Yassine El Jakani 👋</h1>
-###
+
 <h4 align="left">I &#60;dev/&#62; things, I secure them, and I break them.</h4>
-###
+
 <p align="left">Cybersecurity Engineer | DevSecOps | SRE — currently pursuing a Mastère Spécialisé Expert Cybersécurité at <strong>Télécom Paris</strong>. I build resilient cloud architectures and break things to make them stronger. Experienced in cloud infrastructure optimization (OCI/AWS), Web3 security auditing, red team operations, and AI-powered security tooling.</p>
 
 <p align="left">
   <a href="https://eljakani.me"><img src="https://img.shields.io/badge/Portfolio-eljakani.me-1a1b27?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/eljakaniyassine"><img src="https://img.shields.io/badge/LinkedIn-Yassine%20El%20Jakani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-###
 
 #### 🔭 What I do
 
